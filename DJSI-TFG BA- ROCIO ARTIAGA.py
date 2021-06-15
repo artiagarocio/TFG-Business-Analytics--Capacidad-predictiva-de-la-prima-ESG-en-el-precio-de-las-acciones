@@ -923,8 +923,3 @@ for i in items6:
     print([i],f"RMSE: {rmse}")
 
 
-# In[ ]:
-
-
-
-
