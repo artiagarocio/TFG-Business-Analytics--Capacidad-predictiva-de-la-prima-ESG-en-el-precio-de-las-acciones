@@ -115,8 +115,4 @@ dfIBEX['IBEX35'].plot(ax=ax,c="blue",legend='IBEX35')
 ax.legend()
 
 
-# In[ ]:
-
-
-
 
