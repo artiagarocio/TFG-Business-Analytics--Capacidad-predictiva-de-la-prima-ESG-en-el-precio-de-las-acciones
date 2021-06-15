@@ -653,7 +653,7 @@ for i in items3:
             squared = False
            )
     print("")
-    print([i],f"El error (rmse) de test es: {rmse}")
+    print([i],f"RMSE: {rmse}")
 
 
 # In[32]:
